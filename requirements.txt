@@ -1,8 +1,8 @@
+streamlit==1.26.0
 torch==2.7.1
-torchvision==0.22.2
-torchaudio==2.7.2
-streamlit
+torchvision==0.22.1
+open-clip-torch==2.23.0
+faiss-cpu==1.7.4
 Pillow
 numpy
-faiss-cpu
-open-clip-torch
+tqdm
