@@ -1,0 +1,14 @@
+National Stock Number (NSN): 1560-01-161-8352
+Part Number: 2012A83
+CAGE Code: 45934
+Name: GROUND STRAP ASSEMBLY
+Federal Supply Class (FSC): 1560
+National Item Identification Number (NIIN): 011618352
+Service: NAVICPPHIL Philadelphia, PA.
+Platform: SH-60B, SH-60F, HH-60H, H-60
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

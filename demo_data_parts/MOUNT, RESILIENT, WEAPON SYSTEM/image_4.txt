@@ -1,0 +1,14 @@
+National Stock Number (NSN): 5342-01-265-9125
+Part Number: B4583-1
+CAGE Code: 54184
+Name: MOUNT, RESILIENT, WEAPON SYSTEM
+Federal Supply Class (FSC): 5342
+National Item Identification Number (NIIN): 012659125
+Service: Redstone Arsenal, AL.
+Platform: HH-60L MEDIVAC, EH-60A, UH-60A
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

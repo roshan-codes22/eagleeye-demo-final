@@ -1,0 +1,14 @@
+National Stock Number (NSN): 4030-00-618-8468
+Part Number: HT100-5
+CAGE Code: 55345
+Name: SWAGING, SLEEVE, WIRE
+Federal Supply Class (FSC): 4030
+National Item Identification Number (NIIN): 006188468
+Service: Tinker AFB, OK. | Robins AFB, GA.
+Platform: AIRCRAFT, B-52, C/KC-135, AWACS E-3A, SOF (AC-130H, AC-130J, AC-130U, EC-130E, EC-130H, HC
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

@@ -1,0 +1,14 @@
+National Stock Number (NSN): 2925-01-461-6372
+Part Number: 502144
+CAGE Code: 59501
+Name: IGNITER, SPARK, GAS TURBINE ENGINE
+Federal Supply Class (FSC): 2925
+National Item Identification Number (NIIN): 015695471
+Service: Tinker AFB, OK.
+Platform: ENGINE, AIRCRAFT, F100 PW220 (F-15C/D/E) | F100-PW-229 (F15E,F15C/D)
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

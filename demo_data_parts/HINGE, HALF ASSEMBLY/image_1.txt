@@ -1,0 +1,14 @@
+National Stock Number (NSN): 1560-01-226-5111
+Part Number: 74A110958-1003
+CAGE Code: 76301
+Name: HINGE, HALF ASSEMBLY
+Federal Supply Class (FSC): 1560
+National Item Identification Number (NIIN): 012265111
+Service: NAVICPPHIL Philadelphia, PA.
+Platform: AIRCRAFT, HORNET F/A-18 | HORNET F/A-18 (E/F) | F/A-18, A - D, E/F, G (GROWLER)
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

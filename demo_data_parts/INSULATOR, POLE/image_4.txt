@@ -1,0 +1,14 @@
+National Stock Number (NSN): 5970-01-304-2856
+Part Number: 31169-1553
+CAGE Code: 3CPE0
+Name: INSULATOR, POLE
+Federal Supply Class (FSC): 5970
+National Item Identification Number (NIIN): 013042856
+Service: Robins AFB, GA.
+Platform: AN/TRC-220, SHELTER, SIGNAL PROCESS/ASOC
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

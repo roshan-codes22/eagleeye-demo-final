@@ -1,0 +1,14 @@
+National Stock Number (NSN): 5365-01-450-3492
+Part Number: 149C4049-3
+CAGE Code: 72429
+Name: ARM, INNER
+Federal Supply Class (FSC): 5365
+National Item Identification Number (NIIN): 014503492
+Service: Robins AFB, GA. / NAVICPPHIL Philadelphia, PA.
+Platform: C-130, SOF (AC-130H, MC-130H, EC-130E, HC-130, MC-130W), C-130F, KC-130
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

@@ -1,0 +1,14 @@
+National Stock Number (NSN): 6620-00-019-8424
+Part Number: 9850143G001
+CAGE Code: 1ZK21
+Name: SCREW ASSEMBLY JEWEL
+Federal Supply Class (FSC): 6620
+National Item Identification Number (NIIN): 000198424
+Service: Redstone Arsenal, AL. | Hill AFB, UT. | Robins AFB, GA. | NAVICPMECH Mechanicsburg, PA. | NAVICPPHIL Philadelphia, PA.
+Platform: AIRCRAFT MH-47E SPECIAL OPERATIONS AIRCRAFT | A-10 | E-2C | E2/C2 ALL SERIES AIRCRAFT | P-3 | T-2 | C-2A (REPROCURED) | HELICOPTER, UTILITY/SEARCH AND RECOVERY UH-1N | CH-53 D/E
+Qualification Requirement: The new vendor must go through the SAR process, prior to fielding a FAT is required, three prototypes manufactured and parts must conform to a FIT check.
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

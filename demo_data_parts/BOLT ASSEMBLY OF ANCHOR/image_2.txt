@@ -1,0 +1,14 @@
+National Stock Number (NSN): 5306-01-557-1145
+Part Number: 4088517-01
+CAGE Code: 77445
+Name: BOLT ASSEMBLY OF ANCHOR
+Federal Supply Class (FSC): 5306
+National Item Identification Number (NIIN): 015571145
+Service: Tinker AFB, OK.
+Platform: ENGINE, AIRCRAFT, F100 PW220 (F-15C/D/E)
+Qualification Requirement: Vendors seeking to become an approved source for this item can submit a SAR (Source Approval Request) IAW MQR-PSD-1 and the available technical data
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

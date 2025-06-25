@@ -1,0 +1,14 @@
+National Stock Number (NSN): 1620-01-136-4250
+Part Number: 2560618
+CAGE Code: 45934
+Name: LINK ASSEMBLY
+Federal Supply Class (FSC): 1620
+National Item Identification Number (NIIN): 011364250
+Service: NAVICPPHIL Philadelphia, PA.
+Platform: E-2C, C-2A (REPROCURED)
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

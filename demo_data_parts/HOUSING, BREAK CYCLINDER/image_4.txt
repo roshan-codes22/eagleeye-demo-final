@@ -1,0 +1,14 @@
+National Stock Number (NSN): 1630-00-435-1351
+Part Number: 6033-10
+CAGE Code: 61873
+Name: HOUSING, BREAK CYCLINDER
+Federal Supply Class (FSC): 1630
+National Item Identification Number (NIIN): 004351351
+Service: Hill AFB, UT.
+Platform: AIRCRAFT, T-38
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

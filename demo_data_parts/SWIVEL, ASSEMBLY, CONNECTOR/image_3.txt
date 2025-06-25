@@ -1,0 +1,14 @@
+National Stock Number (NSN): 1680-01-016-1264
+Part Number: 28952
+CAGE Code: 04638
+Name: SWIVEL, ASSEMBLY, CONNECTOR
+Federal Supply Class (FSC): 1680
+National Item Identification Number (NIIN): 010161264
+Service: Hill AFB, UT.
+Platform: AIRCRAFT, THUNDERBOLT II, A-10
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

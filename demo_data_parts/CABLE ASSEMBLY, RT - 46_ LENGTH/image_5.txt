@@ -1,0 +1,14 @@
+National Stock Number (NSN): 5995-01-156-9063
+Part Number: 1583-8215-57
+CAGE Code: 66544
+Name: CABLE ASSEMBLY, RT - 46" LENGTH
+Federal Supply Class (FSC): 5995
+National Item Identification Number (NIIN): 011569063
+Service: NAVICPPHIL Philadelphia, PA.
+Platform: AIRCRAFT, HORNET F/A-18 | F/A-18, A - D, E/F, G (GROWLER)
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 

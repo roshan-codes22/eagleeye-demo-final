@@ -1,0 +1,14 @@
+National Stock Number (NSN): 5995-01-502-6089
+Part Number: AE13013-412-113
+CAGE Code: 0HS46
+Name: CABLE ASSEMBLY
+Federal Supply Class (FSC): 5995
+National Item Identification Number (NIIN): 015026089
+Service: NAVICPPHIL Philadelphia, PA.
+Platform: AIRCRAFT, HORNET F/A-18 (E/F) / F/A-18, A - D, E/F, G (GROWLER) / EA-18G (GROWLER)
+Qualification Requirement: Unknown
+Cover Photo: 
+Supporting Image 1: 
+Supporting Image 2: 
+Supporting Image 3: 
+Supporting Image 4: 
