@@ -1,6 +1,8 @@
+torch==2.7.1
+torchvision==0.18.1
+torchaudio==2.7.1
 streamlit
-torch==2.0.0
-torchvision==0.15.0
 Pillow
 numpy
 faiss-cpu
+open-clip-torch
